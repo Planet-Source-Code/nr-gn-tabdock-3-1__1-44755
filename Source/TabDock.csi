@@ -1,0 +1,16 @@
+[History]
+B0=TabDock/TDockForm/FloatingWidth
+B1=TabDock/TDockForm/Visible
+B2=TabDock/TTabDockHost/Dock
+B3=TabDock/modApi32/ObjectFromPtr
+B4=TabDock/modApi32
+B5=TabDock/TDockForm
+B6=TabDock/cSplitDDC
+B7=TabDock/TDockForm/Object
+B8=TabDock/TDockForm/ISubclass_WindowProc
+B9=TabDock/TDockForm/Detach
+B10=TabDock/TDockForm/Attach
+B11=TabDock/TDockForm/DrawDragRectangle
+B12=TabDock/TDockForm/DockForm_CaptionClick
+B13=TabDock/TDockForm/DragObject
+B14=TabDock/TDockForm/DockForm_MouseUp
